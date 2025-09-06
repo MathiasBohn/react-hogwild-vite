@@ -101,4 +101,3 @@ describe("Hog App", () => {
     expect(cards.length).toBe(hogs.length);
   });
 });
-
